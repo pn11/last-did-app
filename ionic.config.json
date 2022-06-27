@@ -1,0 +1,7 @@
+{
+  "name": "Last Did App",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
